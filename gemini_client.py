@@ -4,7 +4,6 @@ from google.genai import types
 import os
 
 # new
-API_KEY = "AIzaSyAHLpftnNm7FPCA-ff-Q0dGCIRFHLkAveY"
 MODEL = "models/gemini-2.5-flash-live-preview"
 
 client = genai.Client(
