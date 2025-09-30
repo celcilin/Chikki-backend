@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+gemini_client.py
 
 # Virtual environments
 .venv
